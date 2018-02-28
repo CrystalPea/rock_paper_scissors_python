@@ -28,6 +28,12 @@ virtualenv venv
 source ./venv/bin/activate
 ```
 
+Install the dependencies:
+```
+pip install -r requirements.txt
+```
+
+
 Run `pytest -v` - you should get:
 
 ```
